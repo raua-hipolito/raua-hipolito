@@ -13,6 +13,7 @@
 
 ![Hipolito GitHub stats](https://github-readme-stats.vercel.app/api?username=raua-hipolito&show_icons=true&theme=merko)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raua-hipolito)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Tecnologias que eu uso no meu dia-a-dia 💻
