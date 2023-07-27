@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Olá, tudo bem?👋
 
 ### Me chamo Rauã Hipólito ,sou um desenvolvedor que está sempre em busca de desafios e por alimentar cada vez mais essa paixão por tecnologia.✌🏾 
 ### Abra sua conexão comigo aqui 👇🏽
