@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__rhipolito?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/559192319924)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rauavasconcelos22@gmail.com)rauavasconcelos22@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rauavasconcelos22@gmail.com)
 
 ![Hipolito GitHub stats](https://github-readme-stats.vercel.app/api?username=raua-hipolito&show_icons=true&theme=merko)
 
