@@ -9,9 +9,8 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/559192319924)
 <a href="mailto: rauavasconcelos22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![Hipolito GitHub stats](https://github-readme-stats.vercel.app/api?username=raua-hipolito&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raua-hipolito)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raua-hipolito&layout=compact&langs_count=10&theme=tokyonight"/>
+<img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=raua-hipolito&show_icons=true&theme=tokyonight"/>
 
 
 ### Tecnologias que eu uso no meu dia-a-dia 💻
